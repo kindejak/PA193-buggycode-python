@@ -12,7 +12,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/kindejak/PA193-buggycode.git
+    git clone https://github.com/kindejak/PA193-buggycode-python.git
     cd PA193-buggycode
     ```
 
@@ -24,24 +24,13 @@ To get started with this project, follow these steps:
 
 This project uses the following static analysis tools:
 
-- **Tool 1:** Description of Tool 1.
-- **Tool 2:** Description of Tool 2.
-- **Tool 3:** Description of Tool 3.
+- **Tool 1:** Codacy
 
 ## Running Static Analysis
 
 To run the static analysis tools locally, use the following commands:
 
-```sh
-# Command to run Tool 1
-tool1-command
-
-# Command to run Tool 2
-tool2-command
-
-# Command to run Tool 3
-tool3-command
-```
+...
 
 ## GitHub Actions Workflow
 
